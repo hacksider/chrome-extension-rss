@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Sunlife Philippines</title>
+  <link>https://www.sunlife.com.ph/PH?vgnLocale=en_CA</link>
+  <description>SLF PH website</description>
+  <item>
+    <title>Sunlife Canada</title>
+    <link>https://www.sunlife.ca/en/</link>
+    <description>Sunlife of Canada</description>
+  </item>
+  <item>
+    <title>Sunlife Philippines</title>
+    <link>https://www.sunlife.com.ph/PH?vgnLocale=en_CA</link>
+    <description>Pinaka best na sunlife sa buong mundo, mwahaha</description>
+  </item>
+  <item>
+    <title>Sunlife HK</title>
+    <link>https://www.sunlife.com.hk/en/</link>
+    <description>我喜欢食物，我也喜欢Sunlife</description>
+  </item>
+</channel>
+
+</rss>
